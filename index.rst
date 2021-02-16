@@ -8,13 +8,10 @@ Welcome to Github-Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Numbers:
+   :Numbers:
+   
+   sample.md
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
