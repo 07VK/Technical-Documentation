@@ -8,7 +8,7 @@ Welcome to Github-Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Numbers:
 
 
 
